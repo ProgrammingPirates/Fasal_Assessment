@@ -60,14 +60,16 @@ Create a .env file in the backend
 PORT=5000
 MONGO_URI=your_mongo_uri
 JWT_SECRET=your_jwt_secret
-
-![alt text](image.png)
-
-
-![alt text](image-1.png)
+```
+![image](https://github.com/ProgrammingPirates/Fasal_Assessment/assets/78801686/fc1aecbf-f9c2-4784-adb1-1ff13242409c)
 
 
-![alt text](image-2.png)
+![image](https://github.com/ProgrammingPirates/Fasal_Assessment/assets/78801686/9a9aee87-4820-44a2-a35f-df03322311e8)
+
+![image](https://github.com/ProgrammingPirates/Fasal_Assessment/assets/78801686/293623ce-3200-44fb-bc2e-ebea84c154f6)
+
+![image](https://github.com/ProgrammingPirates/Fasal_Assessment/assets/78801686/34e33d0c-4110-48f9-9761-671a1459e432)
 
 
-![alt text](image-3.png)
+
+
