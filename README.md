@@ -60,3 +60,14 @@ Create a .env file in the backend
 PORT=5000
 MONGO_URI=your_mongo_uri
 JWT_SECRET=your_jwt_secret
+
+![alt text](image.png)
+
+
+![alt text](image-1.png)
+
+
+![alt text](image-2.png)
+
+
+![alt text](image-3.png)
